@@ -1,0 +1,85 @@
+sw_volume: 25
+audio_device_state:1:CoreAudio
+audio_device_state:1:Visualizer feed
+state: stop
+current: 58
+random: 0
+repeat: 0
+single: 1
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Costa/Costa - Maldito (2018)/Costa   01LUNÁTICO   Maldito.mp3
+1:Costa/Costa - Maldito (2018)/Costa   02CHRISTIAN DIOR feat THE ZOMBIE KIDS   Maldito.mp3
+2:Costa/Costa - Maldito (2018)/Costa   03DIABLO   Maldito.mp3
+3:Costa/Costa - Maldito (2018)/Costa   04SICARIO   Maldito.mp3
+4:Costa/Costa - Maldito (2018)/Costa   05TORRE DE BABEL   Maldito.mp3
+5:Costa/Costa - Maldito (2018)/Costa   06MARGINAL   Maldito.mp3
+6:Costa/Costa - Maldito (2018)/Costa   07UTOPIA   Maldito.mp3
+7:Costa/Costa - Maldito (2018)/Costa   08OREO   Maldito.mp3
+8:Costa/Costa - Maldito (2018)/Costa   09PERRO FLACO feat CUBAN BLING   Maldito.mp3
+9:Costa/Costa - Maldito (2018)/Costa   10POBRE DE TI   Maldito.mp3
+10:Costa/Costa - Maldito (2018)/Costa   11OLD G feat ELEGANGSTER   Maldito.mp3
+11:Costa/Costa - Maldito (2018)/Costa   12POSEIDÓN feat NATOS Y WAOR   Maldito.mp3
+12:Costa/Costa - Maldito (2018)/Costa   13MALDITO   Maldito.mp3
+13:Costa/Costa - Maldito (2018)/Costa   14PERIQUITO feat LAWER CHACAL   Maldito.mp3
+14:Costa/Costa - Maldito (2018)/Costa   15HALLOWEEN   Maldito.mp3
+15:Costa/Costa - Morfina (2010)/01 - Costa - Overtura.mp3
+16:Costa/Costa - Morfina (2010)/02 - Costa - Morfina.mp3
+17:Costa/Costa - Morfina (2010)/03 - Costa - Soy Gamberro.mp3
+18:Costa/Costa - Morfina (2010)/04 - Costa - Verdes y Morados.mp3
+19:Costa/Costa - Morfina (2010)/05 - Costa - One less Feat. Chirie Vegas.mp3
+20:Costa/Costa - Morfina (2010)/06 - Costa - Aritmetica china Feat. Kunta K.mp3
+21:Costa/Costa - Morfina (2010)/07 - Costa - Ice tea.mp3
+22:Costa/Costa - Morfina (2010)/08 - Costa - Yo sigo asi Feat. David Unison.mp3
+23:Costa/Costa - Morfina (2010)/09 - Costa - Deja que destruya todo Feat. Flavio Rodriguez.mp3
+24:Costa/Costa - Morfina (2010)/10 - Costa - Hasta el final del amor.mp3
+25:Costa/Costa - Morfina (2010)/11 - Costa - Thug life Feat. Kunta K.mp3
+26:Costa/Costa - Morfina (2010)/12 - Costa - Stop toys Feat. Romo _ Carmona.mp3
+27:Costa/Costa - Morfina (2010)/13 - Costa - Mi equipo es GP boys Feat. Chirie Vegas _ Romo.mp3
+28:Costa/Costa - Morfina (2010)/14 - Costa - Gloria.mp3
+29:Costa/Costa - Inmortal (2014)/01. Ciudad Pecado.mp3
+30:Costa/Costa - Inmortal (2014)/02. El rey.mp3
+31:Costa/Costa - Inmortal (2014)/03. Mi Yemayá.mp3
+32:Costa/Costa - Inmortal (2014)/04. Vida sin mañana (Feat Terry).mp3
+33:Costa/Costa - Inmortal (2014)/05. Quimera.mp3
+34:Costa/Costa - Inmortal (2014)/06. Colgado.mp3
+35:Costa/Costa - Inmortal (2014)/07. Maradona.mp3
+36:Costa/Costa - Inmortal (2014)/08. Demonios y bares de viejos (Feat Natos y Waor).mp3
+37:Costa/Costa - Inmortal (2014)/09. Jagger y Diazepam.mp3
+38:Costa/Costa - Inmortal (2014)/10. Antiheroes (Feat. Kunta K y Carmona).mp3
+39:Costa/Costa - Inmortal (2014)/11. Callejón.mp3
+40:Costa/Costa - Inmortal (2014)/12. Make money (Feat Chi Ching Ching, Fyahbwoy y W.Giovanni).mp3
+41:Costa/Costa - Inmortal (2014)/13. Truenos.mp3
+42:Costa/Costa - Inmortal (2014)/14. Inmortal.mp3
+43:Costa/Costa - Bestia (2012)/01 Ejército De Un Sólo Soldado.mp3
+44:Costa/Costa - Bestia (2012)/02 Cocaína En Base.mp3
+45:Costa/Costa - Bestia (2012)/03 Sin Mirar Atras.mp3
+46:Costa/Costa - Bestia (2012)/04  Labios Tatuados ft. Romo.mp3
+47:Costa/Costa - Bestia (2012)/05 Alma Sucia ft. Carmona.mp3
+48:Costa/Costa - Bestia (2012)/06  Inadaptados.mp3
+49:Costa/Costa - Bestia (2012)/07 GP Boy.mp3
+50:Costa/Costa - Bestia (2012)/08 Joven Salvaje.mp3
+51:Costa/Costa - Bestia (2012)/09 Tras Contra Todo ft. Chirie Vegas _ Romo.mp3
+52:Costa/Costa - Bestia (2012)/10  Tren Del Terror ft. Carmona.mp3
+53:Costa/Costa - Bestia (2012)/11 Ayer Perdí El Control.mp3
+54:Costa/Costa - Bestia (2012)/12  Bestia ft. Terry.mp3
+55:Costa/Costa - Chocolate (2004)/01 Visnü.mp3
+56:Costa/Costa - Chocolate (2004)/02 Semi-auto (lo hago por mi).mp3
+57:Costa/Costa - Chocolate (2004)/03 Profesional.mp3
+58:Costa/Costa - Chocolate (2004)/04 Cherry (quiero ver).mp3
+59:Costa/Costa - Chocolate (2004)/05 Costa.mp3
+60:Costa/Costa - Chocolate (2004)/06 No hay fe.mp3
+61:Costa/Costa - Chocolate (2004)/07 Yo dum.mp3
+62:Costa/Costa - Chocolate (2004)/08 9mili feat. Moreno.mp3
+63:Costa/Costa - Chocolate (2004)/09 Skit.mp3
+64:Costa/Costa - Chocolate (2004)/10 Platoon.mp3
+65:Costa/Costa - Chocolate (2004)/11 Asi me va feat. Moreno.mp3
+66:Costa/Costa - Chocolate (2004)/12 Contradiccion.mp3
+67:Costa/Costa - Chocolate (2004)/13 Cochabamba feat. Chirie Vegas.mp3
+68:Costa/Costa - Chocolate (2004)/14 B.Y.P.mp3
+69:Costa/Costa - Chocolate (2004)/15 Eterno.mp3
+70:Costa/Costa - Chocolate (2004)/16 Chocolate feat. Moreno.mp3
+playlist_end
