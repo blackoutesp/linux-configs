@@ -1,0 +1,46 @@
+#!/bin/bash
+
+ffserver_config='/home/alex/ffserver.txt'
+
+declare -a array
+
+declare -a mp3_stream_params
+mp3_stream_params[0]='File'
+mp3_stream_params[1]='FileMaxSize'
+mp3_stream_params[2]='ACL'
+
+print(){
+
+        for (( i=0; $i < ${#array[*]}; i++ )); do
+                echo ${array[$i]}
+        done
+}
+
+create_feed(){
+
+        j=0
+        for i in `ls /home/alex/feeds`; do
+                filetype=$(file /home/alex/feeds/$i | cut -d " " -f 2)
+                if [ "$filetype" == "Audio" ]; then
+                        file=$(echo $i | tr 'mp3' 'ffm')
+                        echo $file
+                        array[j]="$file"
+                        let j=$((j+1))
+                fi
+        done
+}
+
+create_stream(){
+
+        for (( i=0; $i < ${#array[*]}; i++ )); do
+                stream="/tmp/${array[$i]}"
+                touch $stream
+        done
+}
+
+
+create_feed
+
+create_stream
+
+exit 0
