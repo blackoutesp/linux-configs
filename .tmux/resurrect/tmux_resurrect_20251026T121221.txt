@@ -1,9 +1,0 @@
-pane	0	1	1	:*	0	vim .tmux/tmux.conf	:/home/blackout	1	vim	:vim .tmux/tmux.conf
-pane	test	1	0	:	0	blackout@archlinux:~/scripts	:/home/blackout/scripts	1	zsh	:
-pane	test	2	0	:-	0	blackout@archlinux:~	:/home/blackout	1	zsh	:
-pane	test	3	1	:*	0	blackout@archlinux:~/scripts	:/home/blackout/scripts	1	zsh	:
-window	0	1	:vim	1	:*	cb3d,153x38,0,0,0	off
-window	test	1	:~	0	:	d03e,155x39,0,0,1	off
-window	test	2	:zsh	0	:-	d03f,155x39,0,0,2	:
-window	test	3	:zsh	1	:*	d040,155x39,0,0,3	:
-state	test	0

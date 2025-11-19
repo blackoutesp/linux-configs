@@ -1,5 +1,0 @@
-pane	0	1	1	:*	0	vim .tmux/tmux.conf	:/home/blackout	1	vim	:vim .tmux/tmux.conf
-pane	test	1	1	:*	0	./bootstrap	:/home/blackout/ls-icons	1	sh	:/bin/sh ./bootstrap
-window	0	1	:vim	1	:*	b9fd,187x52,0,0,0	off
-window	test	1	:~	1	:*	b63e,113x33,0,0,1	off
-state	test	
