@@ -25,7 +25,7 @@
         "memory",
         "disk",
         "temperature",
-        // "keyboard-state",
+        "keyboard-state",
         "hyprland/language",
         "clock",
         "tray",

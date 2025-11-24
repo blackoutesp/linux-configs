@@ -115,7 +115,7 @@ button:hover {
 
 #clock {
     background-color: transparent;
-    color: #fff;
+    color: #fff0f5;
 }
 
 #battery {
@@ -171,17 +171,17 @@ label:focus {
 
 #cpu {
     background-color: transparent; 
-    color: #fff;
+    color: #fff0f5;
 }
 
 #memory {
-    background-color: transparent; 
-    color: #fff;
+    background-color: transparent;
+    color: #fff0f5;
 }
 
 #disk {
     background-color: transparent;
-    color: #fff;
+    color: #fff0f5;
 }
 
 #backlight {
@@ -190,16 +190,16 @@ label:focus {
 
 #network {
     background-color: transparent;
-    color: #fff;
+    color: #fff0f5;
 }
 
 #network.disconnected {
-    background-color: #f53c3c;
+    background-color: #268bd2;
 }
 
 #pulseaudio {
     background-color: transparent;
-    color: #fff;
+    color: #fff0f5;
 }
 
 #pulseaudio.muted {
@@ -232,7 +232,7 @@ label:focus {
 
 #temperature {
     background-color: transparent;
-    color: #fff;
+    color: #fff0f5;
 }
 
 #temperature.critical {
@@ -280,15 +280,15 @@ label:focus {
 
 #language {
     background: transparent;
-    color: #fff;
+    color: #fff0f5;
     padding: 5px;
     margin: 0;
     min-width: 32px;
 }
 
 #keyboard-state {
-    background: #6c71c4;
-    color: #000000;
+    background: transparent;
+    color: #fff0f5;
     padding: 0 0px;
     margin: 0 0;
     min-width: 16px;
